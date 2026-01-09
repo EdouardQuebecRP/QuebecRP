@@ -1,0 +1,25 @@
+[12924:8400:0108/194601.052:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12924:8400:0108/194601.066:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[12924:10040:0108/194601.428:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12924:8400:0108/194601.589:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21224:20552:0108/194611.594:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C26945783F05844D10C7639B84C877CB will be ignored
+[12924:12440:0108/194613.255:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[12924:8400:0108/194613.650:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[12924:8400:0108/194613.651:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[12924:8400:0108/194613.651:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[12924:8400:0108/194613.651:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19380:23148:0108/194613.927:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12924:12440:0108/194614.041:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19380:23148:0108/194614.288:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19380:23148:0108/194626.847:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19380:23148:0108/194639.181:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19380:23148:0108/194814.525:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19380:23148:0108/194816.201:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19380:23148:0108/194824.878:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[18700:11816:0108/194832.861:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19380:23148:0108/194838.218:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19380:23148:0108/195214.918:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19380:23148:0108/195215.582:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19380:23148:0108/195225.129:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19380:23148:0108/195236.917:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12924:8400:0108/200342.294:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
