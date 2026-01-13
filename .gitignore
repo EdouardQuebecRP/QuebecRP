@@ -1,0 +1,15 @@
+cat <<EOF > .gitignore
+# Unreal Engine temporaires
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+FileOpenOrder/
+obj/
+*.pdb
+*.sln
+.vs/
+
+# Fichiers de test personnels
+test_firebase.js
+EOF
